@@ -16,7 +16,7 @@ Hello everyone, and welcome to my simple and easy-to-use book website! This proj
 - HTML5
 - CSS3 
 - Bootstrap
--Javascript
+- Javascript
 
 ## Preview
 ![KitapSitesi1-ezgif com-video-to-gif-converter](https://github.com/MehmetPolat20/booksite/assets/150278524/ce50b0e9-d097-4c5c-aecf-9f80fa631b62)
